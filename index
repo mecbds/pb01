@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <link rel="stylesheet" href="CSS.css">
+    <title>Projeto01</title>
+    <meta charset="utf-8">
+  </head>
+  <body>
+    <div class="container">
+        <div class="card-wrapper">
+            <h2>Cardapio</h2>
+            <p>Opções disponiveis!</p>
+        </div>
+    </div>
+  </body>
+</html><!DOCTYPE html>
